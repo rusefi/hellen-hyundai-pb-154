@@ -26,3 +26,6 @@ https://github.com/rusefi/rusefi_documentation/blob/master/OEM-Docs/Kia/2015-kou
 https://github.com/rusefi/rusefi_documentation/tree/master/OEM-Docs/Hyundai
 
 https://github.com/rusefi/rusefi_documentation/blob/master/OEM-Docs/Hyundai/2014-veloster.pdf ?
+
+
+Not to be confused with MEFI https://github.com/rusefi/hellen154hyundai
