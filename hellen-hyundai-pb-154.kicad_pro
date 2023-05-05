@@ -571,6 +571,14 @@
     [
       "3f51eafa-c39b-4522-910f-155066dba534",
       "ETB"
+    ],
+    [
+      "c9243343-f56b-49d3-82f5-dfe50b9f59a0",
+      "DUMB_COILS"
+    ],
+    [
+      "365fe8bd-7834-4a31-9f7c-cc7eed575277",
+      "KNOCK"
     ]
   ],
   "text_variables": {}
