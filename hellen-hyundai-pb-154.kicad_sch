@@ -10540,7 +10540,7 @@
     (property "Sheetname" "DUMB_COILS" (at 242.57 22.86 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "DUBM_COILS4.kicad_sch" (at 242.57 22.86 0)
+    (property "Sheetfile" "DUMB_COILS4.kicad_sch" (at 242.57 22.86 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (pin "IN1" input (at 255.27 27.94 0)
