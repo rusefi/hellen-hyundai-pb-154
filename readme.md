@@ -13,7 +13,7 @@ same pinout for
 
 2013-2017 Hyundai Veloster 1.6 Turbo
 
-2014-2017 Kia Forte 1.6 Turbo
+2014-2017 Kia Forte 1.6 Turbo
 
 
 
