@@ -413,7 +413,7 @@
       "pin_to_pin": "warning",
       "power_pin_not_driven": "ignore",
       "similar_labels": "warning",
-      "simulation_model_issue": "ignore",
+      "simulation_model_issue": "error",
       "unannotated": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
@@ -470,40 +470,7 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": [
-      {
-        "netclass": "HV",
-        "pattern": "/HV1"
-      },
-      {
-        "netclass": "HV",
-        "pattern": "/HV2"
-      },
-      {
-        "netclass": "HV",
-        "pattern": "/HV3"
-      },
-      {
-        "netclass": "HV",
-        "pattern": "/HV4"
-      },
-      {
-        "netclass": "HV",
-        "pattern": "/OUT_IGN1"
-      },
-      {
-        "netclass": "HV",
-        "pattern": "/OUT_IGN2"
-      },
-      {
-        "netclass": "HV",
-        "pattern": "/OUT_IGN3"
-      },
-      {
-        "netclass": "HV",
-        "pattern": "/OUT_IGN4"
-      }
-    ]
+    "netclass_patterns": []
   },
   "pcbnew": {
     "last_paths": {
